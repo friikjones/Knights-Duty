@@ -1,0 +1,39 @@
+[Tabuleiro]
+	1 Tabuleiro, composto de:
+		(3 ou 6) Partes encaixáveis
+		6 Bordas
+		(2 ou 3) Barreiras
+
+[Tokens dos Jogadores]
+
+	[Avatar]
+		6 Tokens/Miniaturas de Peões
+		6 Tokens de Espada com Base
+		6 Tokens de Lança com Base
+		6 Tokens de Arco com Base
+
+	[Para tabuleiro]
+		6 conjuntos de tokens, sendo eles:
+			3 Tokens de Movimento
+			3 Tokens de Espada
+			3 Tokens de Lança
+			3 Tokens de Arco
+			3 Tokens de Escudo
+			1 Token de Ação Bonus
+
+[Cartas]
+	(1 ou 6) conjuntos de cartas, sendo elas:
+		3 Cartas de Falha
+		1 Carta de Coração
+		1 Carta de Acerto no Escudo
+
+[Manual]
+	1 Manual
+
+[Caixa]
+	1 Caixa, com:
+		1 Arte para Tampa
+		1 Arte para Laterais
+		1 Arte para Frente (Logo)
+		1 Arte para Fundo
+		1 Resumo de manual para fundo
